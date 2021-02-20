@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Kevin Pleitez",
+    "occupation":"estudiante",
+    "description":"Mi descrpcion",
+    "image":"profilepic.jpg",
+    "bio":"Algo acerca de mi",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "kevin_eliu@hotmail.es",
+    "phone": "7482-4700",
+    "college": "Universidad Don Bosco",
+    "address":{
+      "street":"Santa Lucía",
+      "city":"Soyapango",
+      "state":"San Salvador",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://github.com/Behemut/GuiasDSM/blob/CV/Curriculum%20Pleitez%20Hercules%20Kevin.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100008586308462",
+        "className":"fa fa-facebook"
+      },
+    
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kevin-eliu-pleitez-hercules-11082b1a2/",
+        "className":"fa fa-linkedin"
+      },
+   
+      {
+        "name":"github",
+        "url":"https://github.com/Behemut",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Universidad Don Bosco",
+        "degree":"Técnico en Ingeniería en Computación (PILET)",
+        "graduated":"Diciembre 2017",
+        "description":"La carrera del Técnico en Ingeniería en Computación de la Universidad Don Bosco, tiene como objetivo formar profesionales que planifiquen, organicen, diseñen y desarrollen aplicaciones de escritorio y la web basadas en tecnologías emergentes, seleccionando la mejor plataforma y tecnología para ofrecer soluciones a los requerimientos de la industria y mercado nacional e internacional."
+      },
+      {
+        "school":"Universidad Don Bosco",
+        "degree":"Ingeniería en Ciencias de la Computación (2017)",
+        "graduated":"Vigente 2021",
+        "description":"La carrera de Ingeniería en Ciencias de la Computación de la Universidad Don Bosco tiene como objetivo gestionar proyectos informáticos, crear software innovador, gestionar redes informáticas, aplicando normas técnicas internacionales, para mejorar la productividad y eficiencia de las organizaciones, posicionar al país en escenarios competitivos a nivel global y mejorar el nivel de vida de las personas."
+      },
+      {
+        "school":"Colegio Don Bosco",
+        "degree":"Bachillerato opcion técnico en informática",
+        "graduated":"2016",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Ministerio de Agricultura y Ganadería",
+        "title":"Ayudante de técnico informatico",
+        "years":"Enero 2017 - Mayo 2017",
+        "description":"Realización de horas sociales en el MAG funcionando como un asistente de soporte tecnico"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"React Native",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"40%"
+      },
+      {
+        "name":"SQL SERVER",
+        "level":"80%"
+      },
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"Arduino",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Proyecto MAG-UDB",
+        "category":"Programa de gestion de encuestas para el MAG",
+        "image":"mag.jpg",
+        "url":"https://github.com/Behemut/ProyectoMAG-UDB"
+      },
+      {
+        "title":"Aprendizaje en PHP",
+        "category":"Evaluaciones realizadas en PHP",
+        "image":"php.png",
+        "url":"https://github.com/Behemut/LIS-parciales"
+      },
+      {
+        "title":"Gestor de Oracle en C#",
+        "category":"Gestor de Oracle (CRUD)  realizado en C# por medio de formularios",
+        "image":"oracle.png",
+        "url":"https://github.com/Behemut/Gestor-Oracle-C-"
+      },
+      {
+        "title":"Machine Learning con C# y Arduino",
+        "category":"Proyecto que leia el clima por medio de lecturas de un sensor y clasificaba por Machine Learning",
+        "image":"arduino.png",
+        "url":"https://github.com/Behemut/Machine-Learning-C-Arduino"
+      },
+      {
+        "title":"CRUD Firebase y Angular",
+        "category":"Proyecto de Angular para realizar un CRUD atraves de Firebase",
+        "image":"angular.png",
+        "url":"https://github.com/Behemut/Examen3DPS"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
